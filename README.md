@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Shukor</h1>
-<h3 align="center">Engineer</h3>
+<h3 align="center"></h3>
+
+- 💬 Ask me about **Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
