@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Shukor</h1>
+<h1 align="center">Abdul Shukor</h1>
 <h3 align="center"></h3>
 
 - 💬 Ask me about **Kubernetes**
