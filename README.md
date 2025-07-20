@@ -1,5 +1,5 @@
 <h1 align="center">Abdul Shukor</h1>
-<h3 align="center">DevOps | Cloud Engineer | Kubernetes Enthusiast</h3>
+<h3 align="center">DevOps | Cloud | Kubernetes</h3>
 
 <p align="center">
   💬 Ask me about <strong>Kubernetes</strong>
