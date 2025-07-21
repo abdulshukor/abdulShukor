@@ -33,3 +33,9 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/></a>
+
+<p align="center">
+  <a href="https://github.com/abdulShukor/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulShukor&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="abdulshukor's GitHub Contribution Graph"/>
+  </a>
+</p>
