@@ -34,3 +34,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/></a>
 
+<!-- GitHub Stats -->
+<!---[![Abdulshukor's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulShukor&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=react)](https://github.com/abdulShukor/github-readme-stats)
+
+
+
