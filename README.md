@@ -3,6 +3,16 @@
 
 💬 Ask me about **Kubernetes**
 
+<p align="left">
+  <a href="https://github.com/abdulShukor/imanabr77">
+    <img src="https://komarev.com/ghpvc/?username=abdulShukor" alt="page views" />
+  </a>
+  <a href="https://github.com/abdulShukor?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdulShukor?color=green&logo=github">
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 Connect with Me: 
