@@ -3,6 +3,7 @@
 
 💬 Ask me about **Kubernetes**
 
+<!--
 <p align="left">
   <a href="https://github.com/abdulShukor/imanabr77">
     <img src="https://komarev.com/ghpvc/?username=abdulShukor" alt="page views" />
@@ -11,7 +12,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdulShukor?color=green&logo=github">
   </a>
 </p>
-
+-->
 
 ---
 
