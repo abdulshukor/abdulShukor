@@ -1,5 +1,5 @@
 # Abdul Shukor
-### DevOps | Cloud | Automation
+### DevOps | Cloud | Automation | AI
 
 💬 Ask me about **Kubernetes**
 
