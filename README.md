@@ -28,10 +28,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins,python,java,cs,js,html,css,nodejs,nginx,mysql,postgres,git,bash,linux&perline=9" />
 </p> -->
 
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins,python,java,cs,js,html,css,nodejs,nginx,mysql,postgres,git,bash,linux&perline=20" height="50"/>
-</p> -->
-
 
 ### 🧰 Languages and Tools
 
@@ -75,6 +71,7 @@
   <img src="https://img.shields.io/badge/Bash-0f172a?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=yellow" />
 </p>
+
 
 <!-- GitHub Stats -->
 <!---[![Abdulshukor's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulShukor&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=react)](https://github.com/abdulShukor/github-readme-stats)
