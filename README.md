@@ -51,9 +51,6 @@
   <img src="https://img.shields.io/badge/Grafana-0f172a?style=flat-square&logo=grafana&logoColor=orange" />
   <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=green" />
   <img src="https://img.shields.io/badge/Nginx-0f172a?style=flat-square&logo=nginx&logoColor=green" />
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
