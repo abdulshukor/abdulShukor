@@ -35,10 +35,13 @@
 
 ### 🧰 Languages and Tools
 
+### ⚙️ Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0f172a?style=flat-square&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-0f172a?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=white" />
@@ -46,6 +49,8 @@
   <img src="https://img.shields.io/badge/Ansible-0f172a?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-0f172a?style=flat-square&logo=argo&logoColor=orange" />
   <img src="https://img.shields.io/badge/FluxCD-0f172a?style=flat-square&logo=flux&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Prometheus-0f172a?style=flat-square&logo=prometheus&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Grafana-0f172a?style=flat-square&logo=grafana&logoColor=orange" />
   <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=white" />
