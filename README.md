@@ -35,8 +35,6 @@
 
 ### 🧰 Languages and Tools
 
-### ⚙️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=white" />
