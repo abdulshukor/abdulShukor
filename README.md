@@ -35,8 +35,6 @@
 
 ### 🧰 Languages and Tools
 
-### ⚙️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=white" />
@@ -60,7 +58,6 @@
   <img src="https://img.shields.io/badge/Bash-0f172a?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=yellow" />
 </p>
-
 
 <!-- GitHub Stats -->
 <!---[![Abdulshukor's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulShukor&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=react)](https://github.com/abdulShukor/github-readme-stats)
