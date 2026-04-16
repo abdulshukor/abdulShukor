@@ -23,7 +23,6 @@
 <!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulshukor/) -->
 <!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:abdul123@gmail.com) -->
 
-### 🧰 🛠️ Languages and Tools:
 
 <!--  <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins,python,java,cs,js,html,css,nodejs,nginx,mysql,postgres,git,bash,linux&perline=9" />
@@ -32,6 +31,7 @@
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins,python,java,cs,js,html,css,nodejs,nginx,mysql,postgres,git,bash,linux&perline=20" height="50"/>
 </p> -->
+
 
 ### 🧰 Languages and Tools
 
