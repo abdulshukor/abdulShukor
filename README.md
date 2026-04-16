@@ -36,24 +36,41 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
+  <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+  <!-- Containers & Orchestration -->
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0f172a?style=flat-square&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-0f172a?style=flat-square&logo=jenkins&logoColor=white" />
+
+  <!-- CI/CD -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-0f172a?style=flat-square&logo=jenkins&logoColor=white" />
+
+  <!-- Infrastructure as Code -->
   <img src="https://img.shields.io/badge/Terraform-0f172a?style=flat-square&logo=terraform&logoColor=7B42BC" />
   <img src="https://img.shields.io/badge/Ansible-0f172a?style=flat-square&logo=ansible&logoColor=white" />
+
+  <!-- GitOps -->
   <img src="https://img.shields.io/badge/ArgoCD-0f172a?style=flat-square&logo=argo&logoColor=orange" />
   <img src="https://img.shields.io/badge/FluxCD-0f172a?style=flat-square&logo=flux&logoColor=blue" />
+
+  <!-- Monitoring -->
   <img src="https://img.shields.io/badge/Prometheus-0f172a?style=flat-square&logo=prometheus&logoColor=orange" />
   <img src="https://img.shields.io/badge/Grafana-0f172a?style=flat-square&logo=grafana&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
+
+  <!-- Runtime / Web -->
   <img src="https://img.shields.io/badge/Nginx-0f172a?style=flat-square&logo=nginx&logoColor=green" />
+
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
+
+  <!-- Code & System -->
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/Bash-0f172a?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=yellow" />
